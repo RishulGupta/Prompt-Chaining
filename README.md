@@ -1,4 +1,10 @@
 # Prompt Chaining 🔗🧠
+<div align="center">
+<img src="https://github.com/RishulGupta/Prompt-Chaining/blob/4329f9848890af949129dbd9f0306b4e6c37f235/Screenshot%202025-07-29%20004153.png" height=600 width=700>
+
+
+<img src="https://github.com/RishulGupta/Prompt-Chaining/blob/4329f9848890af949129dbd9f0306b4e6c37f235/Screenshot%202025-07-29%20004206.png" height=300 width=200>
+</div>
 
 **Prompt Chaining** is a technique in natural language processing where multiple prompts are sequenced together to guide a language model through a complex task or reasoning process. Rather than relying on a single prompt, this method breaks tasks into smaller, manageable steps — with each step building on the previous one — leading to more accurate, coherent, and controlled outputs.
 
