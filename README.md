@@ -12,7 +12,7 @@
 
 ## 🧭 What’s Inside?
 
-This project demonstrates how to implement prompt chaining using [**LangGraph**](https://github.com/langchain-ai/langgraph), a flexible framework designed to support structured and multi-step interactions with language models.
+This project demonstrates how to implement prompt chaining using [**LangGraph**](https://github.com/langchain-ai/langgraph), a flexible framework designed to support structured and multi-step interactions with language models
 
 LangGraph lets you:
 - Define **nodes** (representing individual prompts or tasks).
